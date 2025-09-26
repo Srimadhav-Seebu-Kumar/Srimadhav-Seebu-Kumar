@@ -6,7 +6,7 @@ Experienced Full Stack Developer and AI/ML Engineer with 3+ years of experience 
 ## Education
 **Bachelor of Technology in Computer Science and Engineering**
 VIT University, Vellore | 2019 - 2023
-- **CGPA:** 8.7/10
+- **CGPA:** 8.15/10
 - **Relevant Coursework:** Data Structures and Algorithms, Software Engineering, Database Management Systems, Machine Learning, Computer Networks, Web Technologies, Mobile Computing
 - **Final Year Project:** "AI-Powered E-commerce Recommendation System using Deep Learning" - Achieved 94% accuracy in product recommendations
 
