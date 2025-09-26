@@ -51,19 +51,7 @@ I'm a dedicated software engineer with a strong foundation in computer science a
 - **Tools:** Docker, Kubernetes, Jenkins, GitHub Actions
 - **Monitoring:** Prometheus, Grafana, ELK Stack
 
-## Education
 
-**Master of Science in Computer Science**  
-University of Technology | 2021-2023
-- Specialization: Artificial Intelligence and Machine Learning
-- Thesis: "Advanced Neural Networks for Real-time Data Processing"
-- GPA: 3.8/4.0
-
-**Bachelor of Technology in Computer Science and Engineering**  
-Technical University | 2017-2021
-- Major: Software Engineering
-- Minor: Data Science
-- GPA: 3.7/4.0
 
 ## Professional Experience
 
